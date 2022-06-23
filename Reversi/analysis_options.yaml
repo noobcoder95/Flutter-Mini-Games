@@ -1,0 +1,6 @@
+include: package:flutter_lints/flutter_lints.yaml
+
+analyzer:
+  strong-mode:
+    implicit-casts: false
+    implicit-dynamic: false
